@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-  "cross_compilation_test"
+  "cross_compilation_test",
+  "scheduler"
 ]
