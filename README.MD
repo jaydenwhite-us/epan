@@ -9,3 +9,10 @@
 
 - [Cross Compilation Test](https://github.com/jaydenwhite-us/epan/blob/main/mac/cross_compilation_test?raw=true)
 - `chmod +x ./Desktop/cross_compilation_test`
+
+## Trouble?
+
+### File does not exist.
+
+- Check that the command follows the pattern `chmod +x ./Desktop/downloaded_file_name`.
+- Fix: You can rename the file to match the command, or you can edit the command to match the file name .
