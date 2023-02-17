@@ -2,5 +2,6 @@
 
 members = [
   "cross_compilation_test",
-  "scheduler"
+  "scheduler",
+  "gui"
 ]

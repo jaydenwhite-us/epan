@@ -9,6 +9,8 @@
 
 - [Cross Compilation Test](https://github.com/jaydenwhite-us/epan/blob/main/mac/cross_compilation_test?raw=true)
 - `chmod +x ./Desktop/cross_compilation_test`
+- [Epan](https://github.com/jaydenwhite-us/epan/blob/main/mac/epan?raw=true)
+- `chmod +x ./mac/epan`
 
 ## Trouble?
 
