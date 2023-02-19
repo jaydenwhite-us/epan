@@ -3,5 +3,6 @@
 members = [
   "cross_compilation_test",
   "scheduler",
-  "gui"
+  "gui",
+  "inventory"
 ]

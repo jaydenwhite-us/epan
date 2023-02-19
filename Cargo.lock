@@ -976,6 +976,7 @@ name = "gui"
 version = "0.1.0"
 dependencies = [
  "eframe",
+ "inventory",
  "scheduler",
 ]
 
@@ -1022,6 +1023,10 @@ dependencies = [
  "wasm-bindgen",
  "web-sys",
 ]
+
+[[package]]
+name = "inventory"
+version = "0.1.0"
 
 [[package]]
 name = "jni"
