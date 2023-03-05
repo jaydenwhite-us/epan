@@ -1591,6 +1591,9 @@ dependencies = [
 [[package]]
 name = "scheduler"
 version = "0.1.0"
+dependencies = [
+ "inventory",
+]
 
 [[package]]
 name = "scoped-tls"
